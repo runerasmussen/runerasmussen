@@ -1,16 +1,11 @@
-### Hi there 👋
+### Tech Lead / Solution Architecture / Azure Cloud / Scrum / C# / DevOps
 
-<!--
-**runerasmussen/runerasmussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there,
+<br />
+I'm Rune, a developer/team lead/architect enabling dev teams and partake in business tech innovation. 
+<br /> <br />
+Focused on BI, cloud, optimizing dev process, business innovation and time-to-market by driving automation, reuse and quality in an agile+devops development process. 
+<br /> <br />
+Certified MCSA Azure Cloud Platform 2018 + MCSA SQL 2012/2014 + SAFe
+<br /> <br /> <br />
+Check out my [LinkedIn profile](https://www.linkedin.com/in/runerasmussen/). 
