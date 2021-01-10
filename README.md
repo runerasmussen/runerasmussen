@@ -1,4 +1,4 @@
-![Header image](https://media-exp1.licdn.com/dms/image/C4E16AQF42DbqeXaCtA/profile-displaybackgroundimage-shrink_350_1400/0?e=1603929600&v=beta&t=dSke3ACcPkgXvtp3d2OJuW1VNE5mZz27xi6ZfZIdxo8)
+![Header image](https://github.com/runerasmussen/runerasmussen/blob/master/profile_background.jpg?raw=true)
 
 #### Tech Lead / Solution Architecture / Azure Cloud / Scrum / C# / DevOps
 Hi there,
