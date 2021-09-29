@@ -8,7 +8,7 @@ I'm Rune, a developer/team lead/architect enabling dev teams and partake in busi
 My primary focus areas are BI, cloud, optimizing dev process, business innovation and time-to-market by driving automation, reuse and quality in an agile+devops development process. 
 Keen to learn and explore. 
 <br /> <br />
-Certified MCSA Azure Cloud Platform 2018 + MCSA SQL 2012/2014 + SAFe
+Certified MCSA Azure Cloud Platform 2018 + MCSA SQL 2012/2014 + Scrum Product Owner
 <br /> <br />
 ![Show Rune Rasmussens LinkedIn profile](https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png "Show Rune Rasmussens LinkedIn profile")
 [Check out my LinkedIn profile](https://www.linkedin.com/in/runerasmussen/).
