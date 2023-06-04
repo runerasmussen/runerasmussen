@@ -13,6 +13,7 @@ Certified MCSA Azure Cloud Platform 2018 + MCSA SQL 2012/2014 + Scrum Product Ow
 [Check out my LinkedIn profile](https://www.linkedin.com/in/runerasmussen/).
 
 <!-- Google tag (gtag.js) -->
+<!--
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZRNF8EJSC0"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -21,3 +22,4 @@ Certified MCSA Azure Cloud Platform 2018 + MCSA SQL 2012/2014 + Scrum Product Ow
 
   gtag('config', 'G-ZRNF8EJSC0');
 </script>
+-->
