@@ -3,7 +3,7 @@
 #### Tech Lead / Solution Architecture / Azure Cloud / Scrum / C# / DevOps
 Hi there,
 <br />
-I'm Rune, a developer/team lead/architect enabling dev teams and partake in business tech innovation. 
+I'm Rune, a solution architect enabling dev teams and partake in business tech innovation. 
 <br />
 Keen to learn and explore. 
 <br /> <br />
